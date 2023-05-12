@@ -1,1 +1,3 @@
-console.log('Buenas Amigaso!');
+const saludo = () => {
+    alert('Hey You Motherfucker!');
+}
